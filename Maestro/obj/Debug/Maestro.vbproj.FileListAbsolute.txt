@@ -1,0 +1,15 @@
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\bin\Debug\Maestro.exe.config
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\bin\Debug\Maestro.exe
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\bin\Debug\Maestro.pdb
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\bin\Debug\Maestro.xml
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.AboutBox1.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.Form1.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.Grafico.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.Resources.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.seriale.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.vbproj.GenerateResource.Cache
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.exe
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.xml
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.pdb
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.Terminale.resources
+C:\Users\Utente\documents\visual studio 2015\Projects\Maestro\Maestro\obj\Debug\Maestro.vbprojResolveAssemblyReference.cache
